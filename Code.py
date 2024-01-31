@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 
 # Load your dataset
-df = pd.read_csv('/content/Salaries.csv')
+df = pd.read_csv('Salaries.csv')
 df.head()
 
 df.columns
